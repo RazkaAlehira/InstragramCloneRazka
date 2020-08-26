@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="input_email" type="id" />
+    <item name="guideline" type="id" />
+    <item name="input_pass" type="id" />
+    <item name="btn_login" type="id" />
+    <item name="text_atau" type="id" />
+    <item name="btn_facebook" type="id" />
+</resources>
